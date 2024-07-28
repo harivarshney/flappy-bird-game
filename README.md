@@ -1,4 +1,4 @@
-![flappy-bird-game](https://socialify.git.ci/harivarshney/flappy-bird-game/image?font=Bitter&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark)
+![flappy-bird-game](https://socialify.git.ci/harivarshney/flappy-bird-game/image?language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark)
 
 # 🐦 Flappy Bird Game
 
