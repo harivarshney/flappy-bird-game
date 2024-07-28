@@ -1,4 +1,6 @@
 
+<img src="https://socialify.git.ci/harivarshney/flappy-bird-game/image?font=Bitter&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="flappy-bird-game" width="640" height="320" />
+
 # 🐦 Flappy Bird Game
 
 Welcome to the Flappy Bird Game repository! This is a simple yet addictive game where you control a bird, navigating through pipes without hitting them. The game is built using HTML, CSS, and JavaScript.
