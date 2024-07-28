@@ -1,5 +1,5 @@
 
-<img src="https://socialify.git.ci/harivarshney/flappy-bird-game/image?font=Bitter&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" alt="flappy-bird-game" width="640" height="320" />
+![flappy-bird-game](https://github.com/user-attachments/assets/28af938f-ee07-497e-8a7c-e0459c763ae1)
 
 # 🐦 Flappy Bird Game
 
